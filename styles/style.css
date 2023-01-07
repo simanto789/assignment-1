@@ -155,8 +155,9 @@
 }
 
 .btn-2 {
-    padding: 15px 35px;
+    padding: 20px 35px;
     font-size: 18px;
+    font-weight: bold;
     background: #FFFFFF;
     border-radius: 5px;
     border: none;
@@ -210,11 +211,14 @@
     color: #ffff;
 
 }
+.contact a{
+    text-decoration: none;
+}
 
 .btn-3 {
     padding: 15px 35px;
     font-size: 20px;
-    font-weight: 600px;
+    font-weight: bold;
     background: #FFFFFF;
     border-radius: 5px;
     border: none;
