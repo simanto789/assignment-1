@@ -84,13 +84,141 @@
     color: #444343;
     margin-bottom: 15px;
 }
-.list{
+
+.list {
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
     color: #444343;
 
 }
-.sign{
+
+.sign {
     color: rgb(58, 190, 58);
+}
+
+/* 3rd portion */
+
+.portion-3rd {
+    margin-top: 135px;
+    margin-bottom: 130px;
+}
+
+.plan {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.my-plan-list {
+    margin-top: 55px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.plan-list {
+    text-align: center;
+}
+
+.list-name {
+    padding: 16px 0;
+}
+
+.list-description {
+    font-weight: 500;
+    font-size: 20px;
+    color: #737272;
+}
+
+/* 4th portion */
+.watch-portion {
+    background-image: url(../images/watch.png), linear-gradient(to right, hwb(24 4% 9%), rgba(255, 255, 255, 0.897));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: hard-light;
+    background-size: cover;
+    border-radius: 8px;
+    min-height: 30vh;
+    width: 80%;
+    margin: auto;
+}
+
+.watch-item {
+    padding: 60px 600px 60px 65px;
+}
+
+.watch-description {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+.btn-2 {
+    padding: 15px 35px;
+    font-size: 18px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+    color: #F15B22;
+    margin-top: 25px;
+}
+
+/* last portion contact section */
+
+.contact {
+    display: flex;
+    gap: 90px;
+    padding: 130px 200px;
+    background: #151414;
+    color: #FFFFFF;
+    margin-top: 130px;
+}
+
+.contact-left {
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 15px;
+
+}
+
+.section-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+
+.another {
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.contact-right {
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 30px;
+
+}
+
+.input-email {
+    padding: 15px 40px;
+    background: transparent;
+    border-radius: 3px;
+    border: 1px solid #ffff;
+    color: #ffff;
+
+}
+
+.btn-3 {
+    padding: 15px 35px;
+    font-size: 20px;
+    font-weight: 600px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+    color: #F15B22;
+    margin-top: 25px;
 }
