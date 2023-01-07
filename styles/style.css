@@ -8,7 +8,6 @@
 .banner-details {
     direction: rtl;
     padding: 216px 230px 364px 845px;
-
 }
 
 .banner-file {
@@ -109,7 +108,7 @@
     font-size: 40px;
     color: #151414;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 200px;
 }
 
 .my-plan-list {
