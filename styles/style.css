@@ -18,7 +18,7 @@
     background-repeat: no-repeat;
 }
 
-.tittle{
+.tittle {
 
     font-weight: 700;
     font-size: 65px;
@@ -27,7 +27,7 @@
 
 }
 
-.description-1{
+.description-1 {
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
@@ -36,11 +36,61 @@
 
 }
 
-.btn-1{
+.btn-1 {
     padding: 15px 35px;
     font-size: 18px;
     background: #F15B22;
     border-radius: 5px;
     border: none;
     color: white;
+}
+
+/* portion 2nd */
+
+.portion-2nd {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 150px;
+    margin-right: 200px;
+}
+
+.person {
+    margin-top: 130px;
+
+}
+
+.failure-list {
+    margin-left: 90px;
+    margin-top: 400px;
+    width: 80%;
+
+}
+
+.failure-tittle {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 15px;
+
+}
+
+.failure-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 15px;
+}
+.list{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+
+}
+.sign{
+    color: rgb(58, 190, 58);
 }
